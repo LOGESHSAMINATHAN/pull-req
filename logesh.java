@@ -3,7 +3,7 @@ class palin{
  public static void main(String args[]){  
   int r,sum=0,temp;    
   Scanner obj = new Scanner(System.in);
-  System.out.print("enter  the number:"); 
+  System.out.print("enter  number:"); 
   int n=obj.nextInt();
   temp=n;    
   while(n>0){    
